@@ -9,7 +9,7 @@ public class ValidationTechnique {
 	public float salaire;
 	
 	
-	// this method ......
+	// this method ...... 12./1/2016
 	public int getNum() {
 		return num;
 	}
