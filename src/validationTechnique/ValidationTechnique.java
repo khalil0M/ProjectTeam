@@ -5,6 +5,11 @@ public class ValidationTechnique {
 	
 	public int num;
 	public String nomPrenom;
+	public int Age;
+	public float salaire;
+	
+	
+	// this method ......
 	public int getNum() {
 		return num;
 	}
